@@ -1,0 +1,13 @@
+{
+    "menu":
+            {
+                "FoodType": {
+                    "Chips": {"item_desc": {"item1": "small chips", "item2": "medium chips"}, "item_price": {"item1": "1.60", "item2":"2.80"}},
+                    "Fish": {"item_desc": {"item1": "jumbo haddock", "item2": "breaded haddock"}, "item_single_price": {"item1": "5.70", "item2":"4.70"},"item_supper_price": {"item1": "7.30", "item2":"7.40"}},
+                    "Pies": {"item_desc": {"item1": "mince pie", "item2": "steak pie"},"item_single_price": {"item1": "2.50", "item2":"2.50"},"item_supper_price": {"item1": "4.10", "item2":"4.10"}}
+
+                }
+
+            }
+
+}

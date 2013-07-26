@@ -1,0 +1,39 @@
+{"response_code": 200,
+    "message": "success",
+    "data": {
+        "Menu":
+                {
+                    "id": "33a3e8c9-e2f5-4ea6-b928-796dc8a6d96a",
+                    "name": "Web Menu",
+                    "updtDtTm": "Web Menu",
+                    "Times":
+                            {
+                                "id": 1,
+                                "startTime": "00.00.00",
+                                "endTime": "00.00.00",
+                                "name": "All"
+                            },
+                    "Categories":
+                            {
+                                "id": "1",
+                                "parentId": "1",
+                                "name": "drinks",
+                                "order": "0"
+                            },
+                    "Items":
+                            {
+                                "id": "1",
+                                "day": "0",
+                                "timeId": "0",
+                                "catId": "4",
+                                "name": "haddock",
+                                "descr": "haddock with chips",
+                                "price": "5.00",
+                                "thumbUrl": "/Uploads/CompanyFiles/System/Graphics/tn_photo_not_available.jpg",
+                                "imageUrl": "/Uploads/CompanyFiles/System/Graphics/photo_not_available.jpg"
+
+
+                            }
+                }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "suppliers": {
+        "supplier1": {
+            "name": "Wm Fraser potterton", "id": 1
+        },
+        "supplier2": {
+            "name": "Couper seafoods", "id": 2
+        },
+        "supplier3": {
+            "name": "Bannermans, Tain", "id": 3
+        },
+        "supplier4": {
+            "name": "The store foveron", "id": 4
+        },
+        "supplier5": {
+            "name": "Jg Ross bakers Inverurie", "id": 5
+        },
+        "supplier6": {
+            "name": "Braehead foods", "id": 6
+        },
+        "supplier7": {
+            "name": "Henry Colbeck Coatbridge", "id": 7
+        }
+
+    }
+}
+                
+  
